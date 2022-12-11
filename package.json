@@ -1,0 +1,25 @@
+{
+  "name": "cpsc349-exercise4",
+  "version": "1.0.0",
+  "description": "Exercise 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethanton0927/cpsc349-exercise4.git"
+  },
+  "author": "Ethan Ton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ethanton0927/cpsc349-exercise4/issues"
+  },
+  "homepage": "https://github.com/ethanton0927/cpsc349-exercise4#readme",
+  "dependencies": {
+    "esbuild": "0.16.4"
+  },
+  "devDependencies": {
+    "npm-run-all": "^4.1.5"
+  }
+}
